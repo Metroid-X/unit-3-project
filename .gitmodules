@@ -1,0 +1,6 @@
+[submodule "client"]
+	path = client
+	url = https://github.com/Metroid-X/slwc-forums-front-end
+[submodule "server"]
+	path = server
+	url = https://github.com/Metroid-X/slwc-forums-back-end
